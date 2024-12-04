@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+}
+
+.poster {
+  height: 20px;
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 100px;
+  color: whitesmoke;
+  font-family: Rubik, sans-serif;
+  text-align: center;
+}
+
+img {
+  border: 10px solid whitesmoke;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-size: 40px;
+}
